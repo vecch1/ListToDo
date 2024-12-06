@@ -3,20 +3,20 @@
     padding: 10px;
     margin-left: -30px;
     border-radius: 30px;
-    background-color: rgb(27, 116, 148);
+    background-color: #616161;
     margin:auto;
     width: 500px;
     height: 400px;
 }
 
-.input{
+.input-task{
   width: 50%;
   height: 5%;
-  border:none;
+  border: none;
   border-radius: 10px;
   padding-left: 10px;
   font-size: 13px;
-
+  
 }
 
 
@@ -47,5 +47,5 @@
 }
 
 body{
-    background-color: rgb(112, 7, 7);
+    background-color: #2a2a2a;
 }
